@@ -6,5 +6,6 @@ public class AddTwoNumbers {
         int y =20;
         int z = x+y;
         System.out.println("The sum of x and y is: " + z);
+        System.out.println("commit 1");
     }
 }
