@@ -19,6 +19,7 @@ public class PrintListOfFruits {
             listOfFruits.add("blueberry");
             listOfFruits.add("raspberry");
             listOfFruits.add("papaya");
+            listOfFruits.add("Avocado");
             System.out.println(listOfFruits);
         }
     }
