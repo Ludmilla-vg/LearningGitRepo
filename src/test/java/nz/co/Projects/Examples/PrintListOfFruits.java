@@ -26,11 +26,10 @@ public class PrintListOfFruits {
             listOfFruits.add("jambalac");
             System.out.println(listOfFruits);
 
+
             System.out.println("The list of shapes:");
             listOfShapes.add("SQUARE");
             listOfShapes.add("RECTANGLE");
+        }
 
-
-
-    }
 }
