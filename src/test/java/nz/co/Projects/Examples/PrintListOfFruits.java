@@ -4,10 +4,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class PrintListOfFruits {
-    public static class PrintLisfOfFruits {
         public static void main (String[] args){
             System.out.println("The list of fruits are as below: ");
             List<String> listOfFruits = new ArrayList<>();
+            List<String> listOfShapes = new ArrayList<>();
             listOfFruits.add("Apple");
             listOfFruits.add("Banana");
             listOfFruits.add("Cherry");
@@ -26,7 +26,11 @@ public class PrintListOfFruits {
             listOfFruits.add("jambalac");
             System.out.println(listOfFruits);
 
+            System.out.println("The list of shapes:");
+            listOfShapes.add("SQUARE");
+            listOfShapes.add("RECTANGLE");
 
-        }
+
+
     }
 }
