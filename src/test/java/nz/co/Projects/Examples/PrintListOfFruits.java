@@ -6,12 +6,14 @@ import java.util.List;
 public class PrintListOfFruits {
     public static class PrintLisfOfFruits {
         public static void main (String[] args){
-            System.out.println("The list of fruits are: ");
+            System.out.println("The list of fruits are as below: ");
             List<String> listOfFruits = new ArrayList<>();
             listOfFruits.add("Apple");
             listOfFruits.add("Banana");
             listOfFruits.add("Cherry");
             listOfFruits.add("Dragon Fruit");
+            listOfFruits.add("Kiwifruit");
+            listOfFruits.add("Strawberry");
             System.out.println(listOfFruits);
         }
     }
