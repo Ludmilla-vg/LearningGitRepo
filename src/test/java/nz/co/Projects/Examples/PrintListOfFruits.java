@@ -1,5 +1,8 @@
 package nz.co.Projects.Examples;
 
+import cucumber.api.java.cs.A;
+import gherkin.lexer.Ar;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -26,10 +29,12 @@ public class PrintListOfFruits {
             listOfFruits.add("jambalac");
             System.out.println(listOfFruits);
 
-
             System.out.println("The list of shapes:");
             listOfShapes.add("SQUARE");
             listOfShapes.add("RECTANGLE");
+            listOfShapes.add("CIRCLE");
+            listOfShapes.add("TRIANGLE");
+
         }
 
 }
