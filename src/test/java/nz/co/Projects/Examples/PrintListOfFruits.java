@@ -16,9 +16,12 @@ public class PrintListOfFruits {
             listOfFruits.add("Strawberry");
             listOfFruits.add("Pineapple");
             listOfFruits.add("Peach");
+<<<<<<< HEAD
             listOfFruits.add("blueberry");
             listOfFruits.add("raspberry");
             listOfFruits.add("papaya");
+=======
+>>>>>>> refs/remotes/base/fifthbranchlearninggit
             listOfFruits.add("Avocado");
             System.out.println(listOfFruits);
         }
