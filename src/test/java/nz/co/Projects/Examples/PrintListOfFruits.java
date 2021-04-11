@@ -1,6 +1,5 @@
 package nz.co.Projects.Examples;
 
-<<<<<<< HEAD
 import java.util.ArrayList;
 import java.util.List;
 
@@ -13,6 +12,8 @@ public class PrintListOfFruits {
             listOfFruits.add("Banana");
             listOfFruits.add("Cherry");
             listOfFruits.add("Dragon Fruit");
+            listOfFruits.add("Kiwifruit");
+            listOfFruits.add("Strawberry");
             System.out.println(listOfFruits);
         }
     }
