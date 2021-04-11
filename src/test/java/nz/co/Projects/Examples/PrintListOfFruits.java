@@ -21,6 +21,12 @@ public class PrintListOfFruits {
             listOfFruits.add("papaya");
             listOfFruits.add("Avocado");
             System.out.println(listOfFruits);
+            System.out.println("Add 2 more  mauritian fruits: ");
+            listOfFruits.add("jamblon");
+            listOfFruits.add("jambalac");
+            System.out.println(listOfFruits);
+
+
         }
     }
 }
