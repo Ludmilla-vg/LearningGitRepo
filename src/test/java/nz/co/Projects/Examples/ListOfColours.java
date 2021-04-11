@@ -21,10 +21,14 @@ public class ListOfColours {
         listOfBabiesColours.add("purple");
         System.out.println(listOfColours);
 
+
         System.out.println("The New Zealand Flag: ");
         listOfNZFlag.add("WHITE");
         listOfNZFlag.add("RED");
         listOfNZFlag.add("BLUE");
+
+        System.out.println("NO MORE COLOURS TO ADD");
+
     }
 }
 
