@@ -25,6 +25,9 @@ public class ListOfColours {
         listOfNZFlag.add("WHITE");
         listOfNZFlag.add("RED");
         listOfNZFlag.add("BLUE");
+
+        System.out.println("NO MORE COLOURS TO ADD");
+
     }
 }
 
