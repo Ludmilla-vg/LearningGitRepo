@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class PrintListOfFruits {
-        public static void main (String[] args){
+        public static void main (String[] args) {
             System.out.println("The list of fruits are as below: ");
             List<String> listOfFruits = new ArrayList<>();
             List<String> listOfShapes = new ArrayList<>();
@@ -34,7 +34,5 @@ public class PrintListOfFruits {
             listOfShapes.add("RECTANGLE");
             listOfShapes.add("CIRCLE");
             listOfShapes.add("TRIANGLE");
-
         }
-
 }
