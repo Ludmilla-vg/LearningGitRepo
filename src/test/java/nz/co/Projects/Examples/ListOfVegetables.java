@@ -10,6 +10,10 @@ public class ListOfVegetables {
         listOfVegetables.add("Beetroot");
         listOfVegetables.add("Carrots");
         listOfVegetables.add("Cabbage");
+        listOfVegetables.add("Cauliflower");
+        listOfVegetables.add("Courgette");
+        listOfVegetables.add("Kumara");
+        listOfVegetables.add("Potato");
         System.out.println("The list of vegetables are: " +listOfVegetables);
     }
 }
