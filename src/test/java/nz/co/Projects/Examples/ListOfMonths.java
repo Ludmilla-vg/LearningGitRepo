@@ -4,12 +4,15 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ListOfMonths {
-    public static void main (String [] args) {
+    public static void main(String[] args) {
         List<String> months = new ArrayList<>();
         months.add("January");
         months.add("February");
         months.add("March");
         months.add("April");
+        months.add("October");
+        months.add("November");
+        months.add("December");
         System.out.println("The list of months are:" + months);
     }
 }
